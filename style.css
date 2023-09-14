@@ -3,7 +3,7 @@ html {
   }
   
   body {
-    background-color: #00FFAB;
+    background-color:linear-gradient(to top, darkred, orangered, orange);
   }
   
   h1,
